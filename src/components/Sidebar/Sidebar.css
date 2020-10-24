@@ -1,0 +1,28 @@
+.Sidebar {
+    margin: 20px;
+}
+
+.profilePic {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.navButtons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.navButton {
+    height: 48px;
+    background-color: lightblue;
+    border: 1px solid lavender;
+    outline: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navButton:hover {
+    background-color:rgb(6, 213, 250);
+}
